@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(191, 206, 214);
+}
+
+main .container .gray{
+    background-color: rgb(206, 200, 200);
+    width: 95%;
+    display: flex;
+    align-items: center;
+    
+}
+
+main .container .header{
+   display: flex;
+   height: 170px;
+   /* width: 200px; */
+
+}
+
+
+main .container .black{
+background-color: black;
+width: 5%;
+}
+
+main .container .gray .info h5{
+    font-weight: unset;
+}
+
+main .container .gray .info{
+    margin-left: 7%;
+}
+
+main .content{
+    background-color: white;
+}
+
+main ul{
+    padding: 0;
+    list-style: none;
+}
+
+main .contact{
+    margin-left: 15%;
+}
+
+main .skills{
+    margin-left: 15%;
+}
+
+main .award{
+    margin-left: 15%;
+}
+
+main .language{
+     margin-left: 15%;
+}
+
+main .hobbies{
+     margin-left: 15%;
+}
+
+main .reference{
+     margin-left: 15%;
+}
+
+main .left{
+    border-right: rgb(181, 173, 173) 1px solid;
+}
+
+main .objective{
+    margin-left: 5%;
+}
+
+main .education{
+    margin-left: 5%;     
+}
+
+main .experience{
+    margin-left: 5%;     
+}
+
+main .certificate{
+    margin-left: 5%;     
+}
